@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Boruc04/DayLog/issues"
   },
-  "homepage": "https://github.com/Boruc04/DayLog#readme"
+  "homepage": "https://github.com/Boruc04/DayLog#readme",
+  "dependencies": {
+    "vss-web-extension-sdk": "^5.141.0"
+  }
 }
